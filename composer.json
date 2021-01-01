@@ -1,0 +1,10 @@
+{
+    "name": "fs/php-mvc-core",
+    "authors": [
+        {
+            "name": "fillemon10",
+            "email": "filip.sjolander@gmail.com"
+        }
+    ],
+    "require": {}
+}
